@@ -2,7 +2,7 @@
 
 - 🚀 Working on personal projects, e-commerce, and digital marketing
 - 🌱 learning C, Python, AI, data analysis, and machine learning
-- Ω  President of the [Entropic Group](https://www.instagram.com/entropic_group/)
+- Ω President of the [Entropic Group](https://www.instagram.com/entropic_group/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">

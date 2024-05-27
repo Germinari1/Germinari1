@@ -18,7 +18,7 @@
 
 ##
 
-![Germinari`s GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=transparent)
+![Germinari`s GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ##
 

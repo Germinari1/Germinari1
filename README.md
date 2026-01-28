@@ -2,7 +2,6 @@
 
 - 🌱 AI and ML | Data Science | Python, C#, C++, SQL | Backend and full stack development
 - Ω Founder @ [Entropic](https://entropic.pythonanywhere.com/). Helping people become their best version in programming and entrepreneurship.
-- 🔭 Co-founder @ [Hubble](https://www.withhubble.com/)
 
 
 <div> 
